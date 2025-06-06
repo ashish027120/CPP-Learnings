@@ -19,7 +19,7 @@ Follow these steps to get started:
    git clone https://github.com/ashish027120/CPP-Practice.git
 
 2.	**Navigate into the folder**
-    cd CPP-Practice
+cd CPP-Practice
 
 3.	**Choose a file to run**
 Browse the folder and pick any .cpp file you want to run.
