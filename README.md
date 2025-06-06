@@ -18,7 +18,7 @@ Follow these steps to get started:
    ```bash
    git clone https://github.com/ashish027120/CPP-Practice.git
 
-2.	**Navigate into the folder**
+2.	Navigate into the folder
 cd CPP-Practice
 
 3.	**Choose a file to run**
