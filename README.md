@@ -20,7 +20,7 @@ Follow these steps to get started:
 
 2.	**Navigate into the folder**
     ```bash
-    cd CPP-Practice
+    cd CPP-Learnings
 
 3.	**Choose a file to run**
 Browse the folder and pick any .cpp file you want to run.
